@@ -71,6 +71,12 @@ if fid == -1
 end
 
 if fid == -1
+    eprimeFileName = strcat('/study4/midusref/raw-data/EMG/eprime/MIDUSref_startle_order1', ...
+    '_FINAL_VERSION_no_eyetracking-', eprimeSub, '-', eprimeSub, '.txt');
+    fid = fopen(eprimeFileName);
+end
+
+if fid == -1
     eprimeFileName = input('Please provide the eprime text file name (including .txt)\n', 's');
 end
 

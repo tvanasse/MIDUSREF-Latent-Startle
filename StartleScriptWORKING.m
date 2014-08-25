@@ -76,7 +76,7 @@ if SubString(1) >0;
 			%#######                                                       #######%
 			%#######    This will work for "task1-4" OR "task0001-0004"    #######%
 			
-			for y=1:4 
+			for y=1:9 
 				if exist(['/study/midusref/raw-data/EMG/mrfr' sub '/mrfr' sub '_task' num2str(y) '.acq']); 
 					acqStartleWORKING(['mrfr' sub '_task' num2str(y)],'MIDUS', 'noninteractive');  %noninteractive option means no pop-up boxes
 				elseif exist(['/study/midusref/raw-data/EMG/mrfr' sub '/mrfr' sub '_task000' num2str(y) '.acq']);
