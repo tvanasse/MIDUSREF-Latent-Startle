@@ -1,0 +1,27 @@
+:hinsenkamp:27-Aug-2012 11:35:29: Function createMidusACQcorrugator() called with the following arguments:
+:hinsenkamp:27-Aug-2012 11:35:29:     Arg #1: string '/study/midusref/Pilot_Data/pilot998/'
+:hinsenkamp:27-Aug-2012 11:35:29:     Arg #2: string '/study/midusref/Pilot_Data/pilot998/'
+:hinsenkamp:27-Aug-2012 11:35:29:     Arg #3: string 'ms998_pilot_task0005'
+:hinsenkamp:27-Aug-2012 11:35:29:     Arg #4: string 'ms998_pilot_task0006'
+:hinsenkamp:27-Aug-2012 11:35:29:     Arg #5: string 'ms998_pilot_task0007'
+:hinsenkamp:27-Aug-2012 11:35:29:     Arg #6: string 'ms998_pilot_task0008'
+:hinsenkamp:27-Aug-2012 11:35:29: Current directory is /study/midusref/Pilot_Data/ms997
+:hinsenkamp:27-Aug-2012 11:35:42: WARNING number of picture events not 90 (numPics: 88)
+:hinsenkamp:27-Aug-2012 11:39:23: Function createMidusACQcorrugator() called with the following arguments:
+:hinsenkamp:27-Aug-2012 11:39:23:     Arg #1: string '/study/midusref/Pilot_Data/ms997/'
+:hinsenkamp:27-Aug-2012 11:39:23:     Arg #2: string '/study/midusref/Pilot_Data/ms997/'
+:hinsenkamp:27-Aug-2012 11:39:23:     Arg #3: string 'ms997_pilot_task0004'
+:hinsenkamp:27-Aug-2012 11:39:23:     Arg #4: string 'ms997_pilot_task0005'
+:hinsenkamp:27-Aug-2012 11:39:23:     Arg #5: string 'ms997_pilot_task0006'
+:hinsenkamp:27-Aug-2012 11:39:23:     Arg #6: string 'ms997_pilot_task0007'
+:hinsenkamp:27-Aug-2012 11:39:23: Current directory is /study/midusref/Pilot_Data/ms997
+:hinsenkamp:27-Aug-2012 11:39:35: WARNING number of picture events not 90 (numPics: 92)
+:hinsenkamp:27-Aug-2012 11:55:49: Function createMidusACQcorrugator() called with the following arguments:
+:hinsenkamp:27-Aug-2012 11:55:49:     Arg #1: string '/study/midusref/Pilot_Data/pilot998/'
+:hinsenkamp:27-Aug-2012 11:55:49:     Arg #2: string '/study/midusref/Pilot_Data/pilot998/'
+:hinsenkamp:27-Aug-2012 11:55:49:     Arg #3: string 'ms998_pilot_task0005'
+:hinsenkamp:27-Aug-2012 11:55:49:     Arg #4: string 'ms998_pilot_task0006'
+:hinsenkamp:27-Aug-2012 11:55:49:     Arg #5: string 'ms998_pilot_task0007'
+:hinsenkamp:27-Aug-2012 11:55:49:     Arg #6: string 'ms998_pilot_task0008'
+:hinsenkamp:27-Aug-2012 11:55:49: Current directory is /study/midusref/Pilot_Data/ms997
+:hinsenkamp:27-Aug-2012 11:56:05: WARNING number of picture events not 90 (numPics: 88)
